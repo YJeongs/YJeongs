@@ -1,5 +1,8 @@
 # YunJeongHa
 
+<style>
+  background-color : aquablue;
+</style>
 Hi! I'm yunjeong Ha with interested in frontend-developer from south Korea.
 
 <h3>최종 목표</h3>
